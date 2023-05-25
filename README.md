@@ -13,13 +13,9 @@ Projeto desenvolvido durante a semana de imersão de um evento da RocketSeat, co
 
 ## 🚀 Tecnologias utilizadas
 
-- React
-- Next
-- TailwindCSS
-- Expo
-- Typescript
-- NodeJS
-- Fastify
+- 💻 Front-end: Next.js, TypeScript, Tailwind CSS
+- ☁️ Back-end: Node.js, TypeScript, Fastify, Prisma
+- 📱 Mobile: React Native, Expo, TypeScript, Nativewind
 
 ---
 ## 🧑‍💻 Autor
